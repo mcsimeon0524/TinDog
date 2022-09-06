@@ -10,6 +10,6 @@ The main framework used in building the TinDog website is Bootstrap5 and its com
 # Screenshots
 ![](images/first-section.png)
 
-![](images/Carousel.png)
+![](images/navbar-carousel.png)
 
-![](images/Card.png)
+![](images/contact.png)
